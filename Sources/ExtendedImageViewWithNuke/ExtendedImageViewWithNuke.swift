@@ -1,6 +1,5 @@
 
 import UIKit
-import BaseExtension
 import Nuke
 
 public enum ProcessorsOption {
