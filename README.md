@@ -1,3 +1,7 @@
 # ExtendedImageViewWithNuke
 
-A description of this package.
+PackageURL
+
+
+
+https://github.com/isamiodagiri/ExtendedImageViewWithNuke.git
